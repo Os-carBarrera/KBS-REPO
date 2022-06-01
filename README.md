@@ -1,1 +1,4 @@
 # KBS-REPO
+
+CHALLENGE 2 -> AgenteClips.java
+RUTA DE TRABAJO CLIPSJNI\CLIPS\java
